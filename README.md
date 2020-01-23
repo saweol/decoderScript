@@ -2,8 +2,7 @@
 decoderScript For Malware Analysis
 
 #decoder1.py
-decoder for 32bit key encoder
-
+decoder for 32bit key encoder (IDA 7.4)
 IOC
 FileName : PDF오성사 MC2-500 외형도 P1307033 Model_수정.pdf.exe
 MD5 : DA799D16AED24CF4F8EC62D5048AFD1A
